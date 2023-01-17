@@ -114,7 +114,6 @@ opacity: 1;
   color: #F6B0A3;
 }
 
-
 .contact-title {
   margin-bottom: 64px;
   text-align: left;
@@ -128,11 +127,12 @@ opacity: 1;
   margin-bottom: 48px;
   text-align: left;
   font: normal normal normal 48px/53px PT Mono;
-  letter-spacing: -3.84px;
   color: #707070;
   opacity: 1;
 }
 
-.contact-description:hover {
-  color: #F6B0A3;
+.mobile {
+  font-family: 'PT Mono';
+  color: #707070;
+  opacity: 1;
 }
