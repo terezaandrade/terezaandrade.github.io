@@ -1,0 +1,132 @@
+
+body {
+  background: #FFFEFA 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.name {
+  margin-top: 30px;
+  margin-left: 40px;
+  font: normal normal bold 25px/28px PT Mono;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+}
+
+.intro-text {
+  padding-top: 450px;
+  padding-right: 94px;
+  font: normal normal normal 80px/90px PT Mono;
+  letter-spacing: -6.4px;
+  color: #707070;
+}
+
+.intro-img {
+  margin-top: 393px;
+}
+
+.intro-text .highlight {
+  font: normal normal bold 80px/90px PT Mono;
+  letter-spacing: -6.4px;
+  color: #F6B0A3;
+}
+
+.second-page-text {
+  margin-top: 127px;
+  margin-right: 94px;
+  font: normal normal normal 80px/90px PT Mono;
+  letter-spacing: -6.4px;
+  color: #707070;
+}
+
+.second-page-img {
+  margin-top: 127px;
+}
+
+.contact {
+  margin-bottom: 160px;
+  margin-left: 120px;
+  margin-right: 48px;
+}
+
+.portfolio {
+  margin-left: 120px;
+  margin-right: 48px;
+}
+
+.portfolio-img {
+  margin-left: 77px;
+}
+
+.portfolio-type {
+  margin-bottom: 16px;
+  text-align: left;
+  font: normal normal bold 48px/53px PT Mono;
+  letter-spacing: -3.84px;
+  color: #707070;
+  opacity: 0.5;
+}
+
+.portfolio-title {
+  margin-bottom: 48px;
+  text-align: left;
+  font: normal normal normal 80px/90px PT Mono;
+  letter-spacing: -6.4px;
+  color: #707070;
+  opacity: 1;
+}
+
+.portfolio-description {
+  text-align: left;
+  font: normal normal normal 48px/53px PT Mono;
+  letter-spacing: -3.84px;
+  color: #707070;
+  opacity: 1;
+}
+
+/* .portfolio-button {
+border: 1px solid #707070;
+border-radius: 60px;
+opacity: 1;
+} */
+
+.portfolio-button {
+  border: solid;
+  border-radius: 60px;
+  color: #707070;
+  text-align: left;
+  font: normal normal normal 48px/53px PT Mono;
+  letter-spacing: -3.84px;
+  color: #707070;
+  opacity: 1;
+  margin-left: 200px;
+  padding: 44px 68px 44px 68px;
+}
+
+
+.portfolio-button:hover {
+  color: #F6B0A3;
+}
+
+
+.contact-title {
+  margin-bottom: 64px;
+  text-align: left;
+  font: normal normal normal 80px/90px PT Mono;
+  letter-spacing: -6.4px;
+  color: #707070;
+  opacity: 1;
+}
+
+.contact-description {
+  margin-bottom: 48px;
+  text-align: left;
+  font: normal normal normal 48px/53px PT Mono;
+  letter-spacing: -3.84px;
+  color: #707070;
+  opacity: 1;
+}
+
+.contact-description:hover {
+  color: #F6B0A3;
+}
